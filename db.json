@@ -1,0 +1,38 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Product 1",
+            "price": 100,
+            "cate_id": 1,
+            "image": "images/",
+            "details": "Mô tả"
+        },
+        {
+            "id": 2,
+            "name": "Product 2",
+            "price": 100,
+            "cate_id": 1,
+            "image": "images/",
+            "details": "Mô tả"
+        },
+        {
+            "id": 3,
+            "name": "Product 3",
+            "price": 100,
+            "cate_id": 1,
+            "image": "images/",
+            "details": "Mô tả"
+        }
+    ],
+    "category": [
+        {
+            "id": 1,
+            "name": "Category 1"
+        },
+        {
+            "id": 2,
+            "name": "Category 2"
+        }
+    ]
+}
